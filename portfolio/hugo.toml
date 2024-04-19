@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr'
+title = 'Athénaïs Vernieuwe'
+theme = 'newsroom'
